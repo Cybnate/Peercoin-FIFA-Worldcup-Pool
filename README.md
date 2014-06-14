@@ -10,7 +10,7 @@ The world is watching and we too at Peercoin will be watching ;-)
 In order to join the excitement here at Peercoin and by popular demand for a pool to be setup, I will be setting a Peercoin FIFA World Cup Championship Pool where each person is able to pick a team or multiple teams to win the FIFA World Cup and whoever picks the winning team will win the FIFA Pot of PPC. Remember anything can happen in the FIFA World Cup!
 Rules to play:
 
-	Check out the list of teams and the placed bets (will try daily updates) on the Google document here: https://drive.google.com/file/d/0B91ywRLpFMRFNk9fbndQaXRpZ3c/edit?usp=sharing Post in the forum which team or teams you want to place a bet on (max 5) and take note of the forum post number before transferring your Peercoins (see below).
+	Check out the list of teams and the placed bets (will try daily updates) on the Google document here: https://docs.google.com/file/d/0B91ywRLpFMRFakF4ZWhMaGhBbzQ  Post in the forum which team or teams you want to place a bet on (max 5) and take note of the forum post number before transferring your Peercoins (see below).
 
 	Donate 2 PPC for each bet to the FIFA World CUP Pool on peer4commit here: <http://peer4commit.com/projects/93
 
